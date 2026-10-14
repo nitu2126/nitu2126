@@ -449,8 +449,6 @@ I'm always open to conversations about embedded systems, firmware engineering, i
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nitu2126&style=for-the-badge&color=3b82f6&label=Profile+Views" />
-
 </div>
 
 <br/>
